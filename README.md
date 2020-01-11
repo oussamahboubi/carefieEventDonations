@@ -5,7 +5,7 @@
 
 This project aims to create an app for generating QR code to pay money in cash.
 
-The donor must:
+The donor must:  
   1-Pay money
   2-Fill out the form
   3-Click the button to generate the QR code
