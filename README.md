@@ -1,5 +1,5 @@
-# carefieEventDonations
-Carefie project for events.
+## carefieEventDonations
+#Carefie project for events.
 
 This project aims to create an app for generating QR code to pay money in cash.
 
